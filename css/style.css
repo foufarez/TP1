@@ -1,0 +1,13 @@
+legend{
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
+label{
+    background-color: aquamarine;
+}
+input{
+    width: 150px;
+    vertical-align: top;
+    
+}
